@@ -19,7 +19,8 @@
     }
   },
   "require": {
-    "php": "^7.0"
+    "php": "^7.0",
+    "opulence/io": "1.0.*"
   },
   "extra": {
     "branch-alias": {
